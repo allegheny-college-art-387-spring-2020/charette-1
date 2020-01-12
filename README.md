@@ -18,7 +18,7 @@
 
 ### Supporting readings
 
-* [Week 0](Readings/Week%200)
+* [Week 0](../course-materials/Readings/Week%200)
 
 ## Activity
 
