@@ -18,7 +18,7 @@
 
 ### Supporting readings
 
-* [Week 0](../course-materials/Readings/Week%200)
+* [Week 0](https://github.com/allegheny-college-art-387-spring-2020/course-materials/tree/master/Readings/Week%200)
 
 ## Activity
 
