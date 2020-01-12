@@ -22,7 +22,7 @@
 
 ## Activity
 
-Today, your team must go on a dérive which should last the duration of *1 hour*. This journey must have an "Operating Principle" which guarantees some level of randomness. Anyone in the group may take pictures or record the process, given that group members all approve of the media being created.
+Today, your team must go on a [dérive](https://github.com/allegheny-college-art-387-spring-2020/course-materials/blob/master/Readings/Week%200/Debord%20-%20Theory%20of%20the%20D%C3%A9rive.pdf) which should last the duration of *1 hour*. This journey must have an "Operating Principle" which guarantees some level of randomness. Anyone in the group may take pictures or record the process, given that group members all approve of the media being created.
 
 Before departing, you must designate individuals to occupy the following roles:
 
