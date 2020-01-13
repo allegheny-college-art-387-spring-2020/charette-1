@@ -31,7 +31,7 @@ Before departing, you must designate individuals to occupy the following roles:
 * Keeper of Laws
 * (Optional) Media Director
 
-`The Social Director` is responisble for maintaining group conversation about the dérive or the `Guiding Citations` governing the activity.
+`The Social Director` is responsible for maintaining group conversation about the dérive or the `Guiding Citations` governing the activity.
 
 `The Director of Chronology` must return the team to the classroom by the end of an hour’s time.
 
